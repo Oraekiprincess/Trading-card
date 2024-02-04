@@ -1,6 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+        font-family: Sans-serif;
+
+}
+
 body { 
     color: #222; 
-    font-family: Sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
 }
 
   #card { 
